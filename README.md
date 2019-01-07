@@ -6,6 +6,8 @@ A simple web app to create single-page full-year calendars
 
 This is a single-page web app implemented with Vue.js.
 
+[View calendar here](https://jsthayer.github.io/printable-year-calendar/)
+
 Load the HTML file in a modern web browser. Select the desired year, then click
 on the "Hide Controls" button. Pull up the print page dialog, then adjust zoom until
 it fits exactly on a full page. You may want to print to PDF to ensure that the 
